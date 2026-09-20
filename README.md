@@ -7,7 +7,7 @@
 
 
 # 💻 Tech Stack:
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![Python](https://shields.io) ![MySQL](https://shields.io) ![Postgres](https://shields.io) ![FastAPI](https://shields.io) ![AWS](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io) ![GitHub Actions](https://shields.io) ![SQLite](https://shields.io) ![Backend](https://shields.io)
 
 # 📊 GitHub Stats:
 ![](https://shion.dev)<br/>
