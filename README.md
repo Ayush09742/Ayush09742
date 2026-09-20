@@ -8,6 +8,26 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Here is the Markdown/HTML code to add a green **"BACKEND"** label in a typewriter-style badge format right next to your SQLite badge:
+
+```html
+<img src="https://shields.io" />
+```
+
+### 🛠️ Complete Tech Stack Snippet
+To make it easier for you to copy and paste, here is how your second row of badges should look inside your `README.md` file:
+
+```markdown
+<!-- First row of your tech stack (Python, MySQL, etc.) goes here -->
+
+<!-- Second row updated -->
+<img src="https://shields.io" /> <img src="https://shields.io" />
+```
+
+### 💡 Styling Details Used
+* **Color (`2ea44f`)**: This matches the standard GitHub green color palette typically used for passing builds or stats.
+* **Logo (`codefactor`)**: A code/terminal-style icon is included to give it that tech/typewriter feel.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ayush09742&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ayush09742&theme=dark&hide_border=false)<br/>
