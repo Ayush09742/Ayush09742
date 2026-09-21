@@ -1,5 +1,5 @@
 # 💫 Tanishk Awasthi
-🔭 I’m currently working  on building scalable APIs and cloud-optimized backend services.<br>🌱 I’m currently learning Advanced System Design, Docker containers, and AWS Cloud Architecture.<br>👯 I’m looking to collaborate on Open Source backend systems and cloud-native applications.<br>🤝 I’m looking for help with Kubernetes orchestration an CI/CD automation pipelines.<br>💬 Ask me about Python, SQL, REST APIs, Database Optimization, Django/FastAPI, and Cloud Integration.<br>⚡ Fun fact: I treat debugging like solving a high-stakes puzzle, powered entirely by caffeine.<br>
+🔭 I’m currently working on building scalable APIs and cloud-optimized backend services.<br>🌱 I’m currently learning Advanced System Design, Docker containers, and AWS Cloud Architecture.<br>👯 I’m looking to collaborate on Open Source backend systems and cloud-native applications.<br>🤝 I’m looking for help with Kubernetes orchestration an CI/CD automation pipelines.<br>💬 Ask me about Python, SQL, REST APIs, Database Optimization, Django/FastAPI, and Cloud Integration.<br>⚡ Fun fact: I treat debugging like solving a high-stakes puzzle, powered entirely by caffeine.<br>
 
 
 ## 🌐 Socials:
